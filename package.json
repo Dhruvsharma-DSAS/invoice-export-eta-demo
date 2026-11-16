@@ -1,0 +1,16 @@
+{
+  "name": "invoice-export-eta-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "demo": "node demo.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "api-latency-brief": "https://codeload.github.com/Dhruvsharma-DSAS/npm_package_time_evaluation/tar.gz/0acf8d530665c0e9aae5344a00deac74de804a73"
+  }
+}
