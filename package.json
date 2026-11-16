@@ -11,6 +11,6 @@
     "test": "node --test"
   },
   "dependencies": {
-    "api-latency-brief": "https://codeload.github.com/Dhruvsharma-DSAS/npm_package_time_evaluation/tar.gz/0acf8d530665c0e9aae5344a00deac74de804a73"
+    "api-latency-brief": "0.3.0"
   }
 }
